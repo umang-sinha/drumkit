@@ -49,3 +49,13 @@ kbd {
     letter-spacing: .1rem;
     color: #ffc600;
 }
+
+.footer-text {
+    font-family:  'Press Start 2P', cursive;
+    color: #ffc600;
+    font-size: small;
+    position:absolute;
+    bottom:5px;
+    left:50%;
+    transform: translateX(-50%);
+}
